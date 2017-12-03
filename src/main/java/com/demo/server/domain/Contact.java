@@ -15,5 +15,5 @@ public class Contact
   private Long id;
   private String firstName;
   private String lastName;
-  private String tel;
+  private String phone;
 }
